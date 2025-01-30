@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: news-aggregator-service
+
+pagination:
+  default-page: 1
+  default-limit: 5
+
+news:
+  guardian-api-url: "https://mock-guardian-api/search"
+  nytimes-api-url: "https://mock-nyc-api/articlesearch.json"
+  guardian-api-key: "test-key"
+  nytimes-api-key: "test-key"
+offline-mode: false

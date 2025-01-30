@@ -1,0 +1,532 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "response": {
+    "docs": [
+      {
+        "abstract": "  WHAT: Vesuvio, the coffee maker that is about to erupt in your kitchen. Last week, at the Salone del Complemente d'Arredo, an accessories show that is an accessory to the Salone Internazionale del Mobile in Milan, the big trend-setting furniture show, Vesuvio stood dormant on a shelf, a stone's throw away from a gleaming array of elegantly hard-edge pots, pans and whisks, looking like something that could have been on the breakfast table at the Flintstones'.   Watch for it in this country later this year. ELEVATION: Vesuvio is 14 inches high.",
+        "web_url": "https://www.nytimes.com/1993/05/02/style/thing-lava-java-vesuvio-is-a-coffeepot.html",
+        "snippet": "",
+        "lead_paragraph": "WHAT: Vesuvio, the coffee maker that is about to erupt in your kitchen. Last week, at the Salone del Complemente d'Arredo, an accessories show that is an accessory to the Salone Internazionale del Mobile in Milan, the big trend-setting furniture show, Vesuvio stood dormant on a shelf, a stone's throw away from a gleaming array of elegantly hard-edge pots, pans and whisks, looking like something that could have been on the breakfast table at the Flintstones'.",
+        "print_section": "9",
+        "print_page": "14",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Lava Java: Vesuvio Is A Coffeepot",
+          "kicker": "THING",
+          "content_kicker": null,
+          "print_headline": "THING; Lava Java: Vesuvio Is A Coffeepot",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "Pesce, Gaetano",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Coffee",
+            "rank": 2,
+            "major": "N"
+          }
+        ],
+        "pub_date": "1993-05-02T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Styles of The Times",
+        "section_name": "Style",
+        "byline": {
+          "original": "By Suanne Slesin",
+          "person": [
+            {
+              "firstname": "Suanne",
+              "middlename": null,
+              "lastname": "Slesin",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/e4ed9136-ca64-5773-99d8-006dcefbd34c",
+        "word_count": 628,
+        "uri": "nyt://article/e4ed9136-ca64-5773-99d8-006dcefbd34c"
+      },
+      {
+        "abstract": "",
+        "web_url": "https://www.nytimes.com/1980/10/19/archives/around-the-nation-union-confirms-an-accord-with-jp-stevens-company.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "print_page": "24",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Around the Nation; Union Confirms an Accord With J.P. Stevens Company Mt. St. Helens Erupts Twice And Forms New Lava Dome 7 Hospital Aides Charged In Medicare Fraud Scheme High Seas Hamper Rescue Of 18 Men on Oil Platform 4 Hurt as Tornado Strikes Louisiana Trailer Park ",
+          "kicker": "1",
+          "content_kicker": null,
+          "print_headline": "Around the Nation; Union Confirms an Accord With J.P. Stevens Company Mt. St. Helens Erupts Twice And Forms New Lava Dome 7 Hospital Aides Charged In Medicare Fraud Scheme High Seas Hamper Rescue Of 18 Men on Oil Platform 4 Hurt as Tornado Strikes Louisiana Trailer Park ",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1980-10-19T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": null,
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/791da08f-a499-557b-9a8e-2c07b17ddf86",
+        "word_count": 0,
+        "uri": "nyt://article/791da08f-a499-557b-9a8e-2c07b17ddf86"
+      },
+      {
+        "abstract": "Stock of Jamdat Mobile surges after it announces deal to buy Blue Lava Wireless, acquiring rights to popular Tetris game on mobile phones; deal is cvalued at $137.7 million (S)",
+        "web_url": "https://www.nytimes.com/2005/04/22/business/technology-briefing-deals-jamdat-shares-surge-after-announcement.html",
+        "snippet": "Stock of Jamdat Mobile surges after it announces deal to buy Blue Lava Wireless, acquiring rights to popular Tetris game on mobile phones; deal is cvalued at $137.7 million (S)",
+        "lead_paragraph": "The stock of Jamdat Mobile surged yesterday after it announced a deal to buy Blue Lava Wireless, acquiring rights to publish the popular Tetris game on mobile phones. Under the cash-and-stock deal valued at $137.7 million, Jamdat acquired a 15-year exclusive worldwide license from the Tetris Company to publish Tetris games on mobile phones. The Tetris Company owns the Tetris brand and previously licensed it to Blue Lava, a closely held mobile gaming company based in Honolulu. To acquire Blue Lava, Jamdat agreed to pay $60 million in cash, 4.05 million shares of Jamdat stock valued at $64 million at the close of trading Wednesday and a deferred payment of $13.7 million in cash or stock. Shares of Jamdat, which is based in Los Angeles, rose $2.479, or 15.8 percent, to $18.189.",
+        "print_section": "C",
+        "print_page": "3",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Technology Briefing | Deals: Jamdat Shares Surge After Announcement",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "Technology Briefing | Deals: Jamdat Shares Surge After Announcement",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "organizations",
+            "value": "TETRIS CO",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "BLUE LAVA WIRELESS",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "JAMDAT MOBILE",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Mergers, Acquisitions and Divestitures",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Computer and Video Games",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Cellular Telephones",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Telephones and Telecommunications",
+            "rank": 7,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2005-04-22T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Business/Financial Desk",
+        "section_name": "Business Day",
+        "byline": {
+          "original": "By Dow Jones; Ap",
+          "person": [
+            {
+              "firstname": "Dow",
+              "middlename": null,
+              "lastname": "Jones",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/7d397ac9-c987-5747-a9f6-d0082ce5e052",
+        "word_count": 175,
+        "uri": "nyt://article/7d397ac9-c987-5747-a9f6-d0082ce5e052"
+      },
+      {
+        "abstract": "eruptions continue",
+        "web_url": "https://www.nytimes.com/1947/01/13/archives/philippine-volcano-continues-menace.html",
+        "snippet": "eruptions continue",
+        "lead_paragraph": "",
+        "print_page": "2",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "PHILIPPINE VOLCANO CONTINUES MENACE",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "PHILIPPINE VOLCANO CONTINUES MENACE",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "Volcanoes",
+            "rank": 1,
+            "major": "N"
+          }
+        ],
+        "pub_date": "1947-01-13T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": null,
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/aa54f755-0c8b-5c15-86a0-6ca0126f005f",
+        "word_count": 0,
+        "uri": "nyt://article/aa54f755-0c8b-5c15-86a0-6ca0126f005f"
+      },
+      {
+        "abstract": "Daly, Reginald A",
+        "web_url": "https://www.nytimes.com/1957/09/20/archives/reginald-a-daly-geologist-86-dies-harvard-professor-emeritus.html",
+        "snippet": "Daly, Reginald A",
+        "lead_paragraph": "",
+        "print_page": "23",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "REGINALD A. DALY, GEOLOGIST, 86, DIES; Harvard Professor Emeritus Received Honors for Study of the Earth's Interior Theorist on Earth's Crust",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "REGINALD A. DALY, GEOLOGIST, 86, DIES; Harvard Professor Emeritus Received Honors for Study of the Earth's Interior Theorist on Earth's Crust",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DALY, REGINALD A",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "DEATHS",
+            "rank": 2,
+            "major": "N"
+          }
+        ],
+        "pub_date": "1957-09-20T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": null,
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/21efdb64-d2f8-52b4-838a-26cec719ff04",
+        "word_count": 0,
+        "uri": "nyt://article/21efdb64-d2f8-52b4-838a-26cec719ff04"
+      },
+      {
+        "abstract": "",
+        "web_url": "https://www.nytimes.com/1980/08/11/archives/around-the-nation-firefighters-return-to-battle-volcanos-subsurface.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "print_section": "A",
+        "print_page": "16",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Around the Nation; Firefighters Return to Battle Volcano's Subsurface Blazes Garbage Piles Up in Boston In Strike of City Workers West Virginia Flood Kills 2 And Damages 100 Buildings ",
+          "kicker": "1",
+          "content_kicker": null,
+          "print_headline": "Around the Nation; Firefighters Return to Battle Volcano's Subsurface Blazes Garbage Piles Up in Boston In Strike of City Workers West Virginia Flood Kills 2 And Damages 100 Buildings ",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1980-08-11T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": null,
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/720757e6-3fc2-502b-9c93-3ebbec094347",
+        "word_count": 0,
+        "uri": "nyt://article/720757e6-3fc2-502b-9c93-3ebbec094347"
+      },
+      {
+        "abstract": "",
+        "web_url": "https://www.nytimes.com/1957/12/10/archives/dividends-announced-dividend-meetings-today.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "print_section": "B",
+        "print_page": "68",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Dividends Announced; DIVIDEND MEETINGS TODAY",
+          "kicker": "1",
+          "content_kicker": null,
+          "print_headline": "Dividends Announced; DIVIDEND MEETINGS TODAY ",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1957-12-10T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": null,
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/4a54d7df-8689-5e9d-9823-487024fbaeae",
+        "word_count": 0,
+        "uri": "nyt://article/4a54d7df-8689-5e9d-9823-487024fbaeae"
+      },
+      {
+        "abstract": "French scientists virtually complete solar furnace designed to produce nitrate fertilizer, Bouzarea observatory, Algeria; furnace described; illus; sponsors named",
+        "web_url": "https://www.nytimes.com/1955/12/11/archives/large-solar-oven-built-in-algeria-furnace-is-designed-to-use-suns.html",
+        "snippet": "French scientists virtually complete solar furnace designed to produce nitrate fertilizer, Bouzarea observatory, Algeria; furnace described; illus; sponsors named",
+        "lead_paragraph": "",
+        "print_page": "143",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "LARGE SOLAR OVEN BUILT IN ALGERIA; Furnace Is Designed to Use Sun's Energy to Produce Nitrate Fertilizer",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "LARGE SOLAR OVEN BUILT IN ALGERIA; Furnace Is Designed to Use Sun's Energy to Produce Nitrate Fertilizer",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "NITRATES",
+            "rank": 1,
+            "major": "N"
+          }
+        ],
+        "pub_date": "1955-12-11T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": "By Michael Clarkspecial To the New York Times",
+          "person": [
+            {
+              "firstname": "Michael",
+              "middlename": "Clarkspecial",
+              "lastname": "To",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/012cb2b1-e8cb-56bf-88f4-342632659397",
+        "word_count": 0,
+        "uri": "nyt://article/012cb2b1-e8cb-56bf-88f4-342632659397"
+      },
+      {
+        "abstract": "Ireland, Repub of: new air item issued",
+        "web_url": "https://www.nytimes.com/1965/05/23/archives/postal-history-on-tour.html",
+        "snippet": "Ireland, Repub of: new air item issued",
+        "lead_paragraph": "",
+        "print_section": "X",
+        "print_page": "24",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Postal History On Tour",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "Postal History On Tour",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "STAMPS, COVERS AND CACHETS",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "MISCELLANEOUS SECTION",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "STAMPS, COVERS AND CACHETS",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "MISCELLANEOUS SECTION",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "STAMPS, COVERS AND CACHETS",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "STAMPS, COVERS AND CACHETS",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "STAMPS, COVERS AND CACHETS",
+            "rank": 7,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "STAMPS, COVERS AND CACHETS",
+            "rank": 8,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "MISCELLANEOUS SECTION",
+            "rank": 9,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "STAMPS, COVERS AND CACHETS",
+            "rank": 10,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "STAMPS, COVERS AND CACHETS",
+            "rank": 11,
+            "major": "N"
+          }
+        ],
+        "pub_date": "1965-05-23T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": "By David Lidman",
+          "person": [
+            {
+              "firstname": "David",
+              "middlename": null,
+              "lastname": "Lidman",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/458b07cb-9b74-547f-808d-dd7704a9e07e",
+        "word_count": 0,
+        "uri": "nyt://article/458b07cb-9b74-547f-808d-dd7704a9e07e"
+      },
+      {
+        "abstract": "",
+        "web_url": "https://www.nytimes.com/1962/08/10/archives/sailing-tomorrow.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "print_page": "28",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "SAILING TOMORROW",
+          "kicker": "1",
+          "content_kicker": null,
+          "print_headline": "SAILING TOMORROW",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1962-08-10T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": null,
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/a8148124-85f6-56c0-ac57-63fcb14970fe",
+        "word_count": 0,
+        "uri": "nyt://article/a8148124-85f6-56c0-ac57-63fcb14970fe"
+      }
+    ],
+    "meta": {
+      "hits": 259,
+      "offset": 0,
+      "time": 37
+    }
+  }
+}

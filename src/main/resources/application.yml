@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: news-aggregator-service
+
+pagination:
+  default-page: 1
+  default-limit: 10
+
+news:
+  guardian-api-url: "https://content.guardianapis.com/search"
+  nytimes-api-url: "https://api.nytimes.com/svc/search/v2/articlesearch.json"
+  guardian-api-key: "064574a4-1c76-463b-9e75-28c6c841b067"
+  nytimes-api-key: "2SBff5ZJqUY7QnATBI7DPJLUKPzb2L0L"
+offline-mode: false
+
+
+# sample guardian response
+# https://content.guardianapis.com/search?q=apple&api-key=064574a4-1c76-463b-9e75-28c6c841b067
+# https://api.nytimes.com/svc/search/v2/articlesearch.json?q=apple&api-key=2SBff5ZJqUY7QnATBI7DPJLUKPzb2L0L

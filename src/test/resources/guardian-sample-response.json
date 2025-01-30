@@ -1,0 +1,142 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "developer",
+    "total": 42737,
+    "startIndex": 1,
+    "pageSize": 10,
+    "currentPage": 1,
+    "pages": 4274,
+    "orderBy": "relevance",
+    "results": [
+      {
+        "id": "food/2025/jan/17/apple-pie-recipe-forbidden-philip-khoury",
+        "type": "article",
+        "sectionId": "food",
+        "sectionName": "Food",
+        "webPublicationDate": "2025-01-17T15:00:05Z",
+        "webTitle": "Philip Khoury’s recipe for forbidden apple pie | The sweet spot",
+        "webUrl": "https://www.theguardian.com/food/2025/jan/17/apple-pie-recipe-forbidden-philip-khoury",
+        "apiUrl": "https://content.guardianapis.com/food/2025/jan/17/apple-pie-recipe-forbidden-philip-khoury",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "technology/article/2024/sep/09/apple-ai-iphone-16",
+        "type": "article",
+        "sectionId": "technology",
+        "sectionName": "Technology",
+        "webPublicationDate": "2024-09-09T19:27:37Z",
+        "webTitle": "Apple reveals iPhone 16 and ‘Apple Intelligence’ AI features",
+        "webUrl": "https://www.theguardian.com/technology/article/2024/sep/09/apple-ai-iphone-16",
+        "apiUrl": "https://content.guardianapis.com/technology/article/2024/sep/09/apple-ai-iphone-16",
+        "isHosted": false,
+        "pillarId": "pillar/news",
+        "pillarName": "News"
+      },
+      {
+        "id": "cook-up-a-feast-with-tesco-finest/2024/nov/29/boozy-apple-sticky-toffee-pudding-recipe",
+        "type": "article",
+        "sectionId": "cook-up-a-feast-with-tesco-finest",
+        "sectionName": "Cook Up A Feast With Tesco Finest",
+        "webPublicationDate": "2024-11-29T10:09:00Z",
+        "webTitle": "Boozy apple sticky toffee pudding – recipe",
+        "webUrl": "https://www.theguardian.com/cook-up-a-feast-with-tesco-finest/2024/nov/29/boozy-apple-sticky-toffee-pudding-recipe",
+        "apiUrl": "https://content.guardianapis.com/cook-up-a-feast-with-tesco-finest/2024/nov/29/boozy-apple-sticky-toffee-pudding-recipe",
+        "isHosted": false
+      },
+      {
+        "id": "business/2025/jan/23/apple-google-mobile-platforms-uk-competition-watchdog-cma-investigates",
+        "type": "article",
+        "sectionId": "business",
+        "sectionName": "Business",
+        "webPublicationDate": "2025-01-23T14:56:50Z",
+        "webTitle": "UK competition watchdog investigates Apple and Google’s mobile platforms",
+        "webUrl": "https://www.theguardian.com/business/2025/jan/23/apple-google-mobile-platforms-uk-competition-watchdog-cma-investigates",
+        "apiUrl": "https://content.guardianapis.com/business/2025/jan/23/apple-google-mobile-platforms-uk-competition-watchdog-cma-investigates",
+        "isHosted": false,
+        "pillarId": "pillar/news",
+        "pillarName": "News"
+      },
+      {
+        "id": "food/2025/jan/20/apple-pear-and-persimmon-crumble-recipe-rachel-roddy",
+        "type": "article",
+        "sectionId": "food",
+        "sectionName": "Food",
+        "webPublicationDate": "2025-01-20T11:00:08Z",
+        "webTitle": "Rachel Roddy’s recipe for apple, pear and persimmon crumble | A kitchen in Rome",
+        "webUrl": "https://www.theguardian.com/food/2025/jan/20/apple-pear-and-persimmon-crumble-recipe-rachel-roddy",
+        "apiUrl": "https://content.guardianapis.com/food/2025/jan/20/apple-pear-and-persimmon-crumble-recipe-rachel-roddy",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id": "technology/2025/jan/17/apple-suspends-ai-generated-news-alert-service-after-bbc-complaint",
+        "type": "article",
+        "sectionId": "technology",
+        "sectionName": "Technology",
+        "webPublicationDate": "2025-01-17T09:57:37Z",
+        "webTitle": "Apple suspends AI-generated news alert service after BBC complaint",
+        "webUrl": "https://www.theguardian.com/technology/2025/jan/17/apple-suspends-ai-generated-news-alert-service-after-bbc-complaint",
+        "apiUrl": "https://content.guardianapis.com/technology/2025/jan/17/apple-suspends-ai-generated-news-alert-service-after-bbc-complaint",
+        "isHosted": false,
+        "pillarId": "pillar/news",
+        "pillarName": "News"
+      },
+      {
+        "id": "technology/2025/jan/13/apple-investors-diversity-dei",
+        "type": "article",
+        "sectionId": "technology",
+        "sectionName": "Technology",
+        "webPublicationDate": "2025-01-13T14:02:06Z",
+        "webTitle": "Apple asks investors to block proposal to scrap diversity programmes",
+        "webUrl": "https://www.theguardian.com/technology/2025/jan/13/apple-investors-diversity-dei",
+        "apiUrl": "https://content.guardianapis.com/technology/2025/jan/13/apple-investors-diversity-dei",
+        "isHosted": false,
+        "pillarId": "pillar/news",
+        "pillarName": "News"
+      },
+      {
+        "id": "technology/2025/jan/07/apple-update-ai-inaccurate-news-alerts-bbc-apple-intelligence-iphone",
+        "type": "article",
+        "sectionId": "technology",
+        "sectionName": "Technology",
+        "webPublicationDate": "2025-01-07T09:24:35Z",
+        "webTitle": "Apple says it will update AI feature after inaccurate news alerts",
+        "webUrl": "https://www.theguardian.com/technology/2025/jan/07/apple-update-ai-inaccurate-news-alerts-bbc-apple-intelligence-iphone",
+        "apiUrl": "https://content.guardianapis.com/technology/2025/jan/07/apple-update-ai-inaccurate-news-alerts-bbc-apple-intelligence-iphone",
+        "isHosted": false,
+        "pillarId": "pillar/news",
+        "pillarName": "News"
+      },
+      {
+        "id": "technology/2024/nov/08/apple-macbook-pro-m4-review-faster-better-and-cheaper",
+        "type": "article",
+        "sectionId": "technology",
+        "sectionName": "Technology",
+        "webPublicationDate": "2024-11-08T07:00:04Z",
+        "webTitle": "Apple MacBook Pro M4 review: faster, better and cheaper",
+        "webUrl": "https://www.theguardian.com/technology/2024/nov/08/apple-macbook-pro-m4-review-faster-better-and-cheaper",
+        "apiUrl": "https://content.guardianapis.com/technology/2024/nov/08/apple-macbook-pro-m4-review-faster-better-and-cheaper",
+        "isHosted": false,
+        "pillarId": "pillar/news",
+        "pillarName": "News"
+      },
+      {
+        "id": "technology/2024/nov/04/apple-iphone-16-pro-max-review-totally-maxed-out",
+        "type": "article",
+        "sectionId": "technology",
+        "sectionName": "Technology",
+        "webPublicationDate": "2024-11-04T07:00:07Z",
+        "webTitle": "Apple iPhone 16 Pro Max review: totally maxed out",
+        "webUrl": "https://www.theguardian.com/technology/2024/nov/04/apple-iphone-16-pro-max-review-totally-maxed-out",
+        "apiUrl": "https://content.guardianapis.com/technology/2024/nov/04/apple-iphone-16-pro-max-review-totally-maxed-out",
+        "isHosted": false,
+        "pillarId": "pillar/news",
+        "pillarName": "News"
+      }
+    ]
+  }
+}
